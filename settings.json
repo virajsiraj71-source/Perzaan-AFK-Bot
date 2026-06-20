@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Vmc.play.hosting",
+    "port": 52478,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -23,10 +23,10 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "jump": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
